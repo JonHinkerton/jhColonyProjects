@@ -1,0 +1,47 @@
+{
+  "AssetId": "16c724640d7f486c91aff3c6ebaa6d0e",
+  "Data": {
+    "$type": "7e85fcaa0f664874f8d214d73cff305b, BlueprintUnitFact",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "name": "$AddStatBonus$d58409e8-90fe-48bc-beb6-481bc4b5b82a",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "None",
+        "Stat": "Evasion",
+        "Value": 10
+      }
+    ],
+    "Author": "EvgeniyIvanovGD",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "e1935073-579f-48cf-b72b-ac2a308938c4",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "ffabd969-758a-402b-bc0a-fc91eff57e0c",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "a47d107e84c72ef4382587442422c071",
+      "fileid": 21300000
+    },
+    "m_AllowNonContextActions": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

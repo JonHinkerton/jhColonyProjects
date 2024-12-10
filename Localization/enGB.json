@@ -1,0 +1,160 @@
+{
+    "strings": {
+        "d75e1982-636e-41e5-894f-13f1fac55013": {
+            "Text": "Materials Arbitrage"
+        },
+		"097a2159-832d-4052-b165-e85804677ff6": {
+            "Text": "The High Factotum has been hard at work arranging trade deals throughout the Koronus Expanse, negotiating exchanges of our goods for imports in contracts that favor the Protectorate."
+        },
+		"e817cb41-9d09-42b4-81f6-024983e6d3c6": {
+            "Text": "Faction Support"
+        },
+		"e049ea9e-2acd-45f3-ac9b-7e773e9ebd19": {
+            "Text": "The Rogue Trader's reputation and esteem have been lifted with our trade partners through the efforts of intermediaries and fixers working behind the scenes to keep the economic engine of the Protectorate working to our benefit."
+        },
+		"2309f68c-4364-454c-b744-0a2b38e9de46": {
+            "Text": "Development"
+        },
+		"4cecbc35-8834-480b-835b-54e09c5f0b34": {
+            "Text": "Investment in the infrastructure of the colonies of the Protectorate by the ruling class is a slow process, but it pays off in higher economic efficiency, quality of life for our citizens, and security against threats external and internal."
+        },
+		"88c36b81-7511-4648-ac34-7a014a63b419": {
+            "Text": "Ruins of the Worldshapers"
+        },
+		"136a3da3-51c3-44cf-bc87-5b6d8bec5552": {
+            "Text": "A crew of workers clearing an area of undisturbed land for new fields came accross the entrance to an Eldar tomb, undisturbed since the time before the fall. Several artifacts that remained in useable condition were recovered and taken into custody by the overseers to be given over to the Ordo Xenos. However, one particularly noteworthy trophy was held back and presented to the Rogue Trader as a gift from the planet's governor."
+        },
+		"c4365730-26e4-4183-ba82-4df40f5d1783": {
+            "Text": "Warlock's Blade"
+        },
+		"166d31ba-e365-4156-b702-012e5e6525eb": {
+            "Text": "This sword deals an additional +psy rating melee damage.<br>The wielder of this sword gains the Lightning Arc ability (power level 9). This ability is also available in its heroic act and desperate measure versions.<br>+10 Willpower<br>+10 Perception"
+        },
+		"5a7ce3c1-8632-417b-a7c3-245783e31aea": {
+            "Text": "This potent xenos relic was found on Janus and given as a trophy to the Rogue Trader."
+        },
+		"de7f5c8f-d9f4-40bf-9a85-faaa0ac6c238": {
+            "Text": "Refire the Forge"
+        },
+		"b75ce36f-fcd8-4a52-bb19-21334deb012a": {
+            "Text": "Following the reclamation of the forgeworld of Kieva Gamma, much work had to be done to bring the production lines back to life. Techpriests from accross the expanse along with survivors of the turmoil gathered to repair and resanctify the vast factories. The effort culmanated in an enormous ritual at the heart of the central cathedral to relight the eternal flame of the great forge itself."
+        },
+		"db22aaf9-fd30-4ace-9e29-662f3784b589": {
+            "Text": "Forge-Wrought Multi-Melta"
+        },
+		"5abc20f6-211f-4011-bd23-94605f4b49fd": {
+            "Text": "The first product of the restored manufacturum of Kieva Gamma. This powerful weapon bears the blessing of the Omnissiah iteself."
+        },
+		"579ebf15-4952-4105-89e0-0a5941714aed": {
+            "Text": "Restoration of the Fleet"
+        },
+		"a2330778-ab59-4062-8867-229b1f997f19": {
+            "Text": "The Von Velancius fleet stationed at Dargonus was savaged in the Drukkari attack on the capital. Under the guidance of the Werserian family the naval yards undertook a huge reclamation project, repairing what could be repaired and salvaging what could not. In short order the planet once again had a functional squadron in place to project the dynasty's will in the Expanse."
+        },
+		"c6a16ad3-f1ab-4cb2-ba11-61275b63cb4b": {
+            "Text": "Longfang Macro Battery"
+        },
+		"3f6fa7c8-21b2-452c-b7ca-19eb33ba4a63": {
+            "Text": "A very long range dorsal macrocannon that fires three shots doing 21 points of damage each."
+        },
+		"06199112-45a5-4770-8271-3bd596699b3b": {
+            "Text": "Crusade Relics"
+        },
+		"2accbbcc-bb7e-4d4f-a4c1-d5458cf3b889": {
+            "Text": "As the Order of the Hammer strikes out accross the Expanse, they come upon many artifacts of the faithful in need of reconsecration. These renewed artifacts find their way back to the shrines of Foulstone, but on one occassion the crusaders dispatched their find to the Rogue Trader instead, seeking to instill righteous zeal in their patron."
+        },
+		"2e2aaa54-5a67-4fbc-9764-e1dd673fc913": {
+            "Text": "Relic Power Armor"
+        },
+		"2ecaaa48-e8b3-4c19-8214-14a00443668c": {
+            "Text": "The wearer deals +10% more damage to xenos and daemons. If the wearer has Conviction — Dogmatic, this bonus is doubled.\n+15 Strength"
+        },
+		"82553017-2e66-4af9-9ae9-7d1e3ba66118": {
+            "Text": "This venerable suit of power armor was recovered and reconsecrated by the crusaders of Foulstone."
+        },
+		"0fab7c60-1a13-44a6-9aec-7e4b16176b01": {
+            "Text": "Spoils of the Swarm"
+        },
+		"cd660329-4e8c-4e0e-831c-2401aea0ae95": {
+            "Text": "The teams sent to examine the remains of the swarm that attacked Vheabos VI from beneath the ground was able to determine very little about the nature of the xenos threat. The never-before seen mechanical entities took their secrets to their graves, yet some intriguing artifacts remained."
+        },
+		"9060e462-7489-48f3-a272-94e7d4c182e5": {
+            "Text": "Mysterious Orb"
+        },
+		"423b7f0c-df4e-46c2-b7a7-76c51f398595": {
+            "Text": "All enemies in combat suffer -10 to their armor."
+        },
+		"624243b6-2b5a-40b6-8910-76ed6d98c637": {
+            "Text": "Very little is known about this strange artifact found among the remains of the swarm on Vheabos VI, but holding it aloft in battle has an uncanny effect on the defences of your adversary."
+        },
+		"c3ec0f36-2d5f-49ed-acb1-fe845a350f13": {
+            "Text": "Long-Overdue Refurbishment"
+        },
+		"231d1e8e-6738-47cc-ae8d-280148bf1274": {
+            "Text": "Having been informed of the opportunity by the Master Hemlmsman, the Rogue Trader takes advantage of their stay in orbit around Dargonus to put in to the docks and have upgraded modules installed on the flagship."
+        },
+		"e1935073-579f-48cf-b72b-ac2a308938c4": {
+            "Text": "Maneuvering Drives"
+        },
+		"ffabd969-758a-402b-bc0a-fc91eff57e0c": {
+            "Text": "The flagship gains a +10 bonus to Evasion."
+        },
+		"b50fe126-1935-47b2-9dd7-824358cd9029": {
+            "Text": "The Logistics of Crusade "
+        },
+		"5bf903ca-9996-44d7-8d8a-09480c9644d1": {
+            "Text": "As the zealous warriors of Foulstone prepare for their crusade through the Expanse, quartermasters begin to stockpile armaments for the coming conflict."
+        },
+		"6a08712a-02de-4da1-a49c-788c76939655": {
+            "Text": "Purgation Grenade"
+        },
+		"c8fe45f3-ad9d-46f2-97bf-b09e13017e1a": {
+            "Text": "Deals 12-24 impact damage with 20% armor penetration and sets the area on fire for 3 turns."
+        },
+		"d810dcd5-561a-4b01-a621-b59bf1c04ebc": {
+            "Text": "A favorite of the Foulstone crusaders, these sanctified grenades combine an inital explosion with a firey compound that adheres to the heretics."
+        },
+		"ce034f45-95a5-4ff6-bfa1-cff7e51cfd06": {
+            "Text": "Xenoheresey"
+        },
+		"a5d0acc7-1c75-43c0-a6c5-49fdf94fd85c": {
+            "Text": "Among the new administrators of Janus, not all are as quick to avoid the Aeldari presence as others. For the Ultrequisitors, veterans of th Cold Trade, the opportunites presented by the presence of the xenos are too rich to pass over, leading to select few items making their way into the hands of the Expanse's rich and powerful."
+        },
+		"53aa1fb6-22ff-4abb-91a9-0a2050117d99": {
+            "Text": "Reflector Field"
+        },
+		"7b0782e2-a631-4055-995b-dbca1941dae4": {
+            "Text": "Until the beginning of the next turn, the wearer gains a bonus to dodge equal to twice the number of cells moved this turn."
+        },
+		"858c9427-37fa-4064-ab3e-7ecbe66edc4f": {
+            "Text": "While it might be heresey to use them, the devices taken from the Aeldari of Janus do have their uses."
+        },
+		"7e8588b9-7e85-4120-bf72-60ca9cd3e397": {
+            "Text": "Questionable Provenance"
+        },
+		"202880c2-0a69-46fd-b5ad-52862ebba7a3": {
+            "Text": "While the manufactoriums of Kieva Gamma sit idle awaiting resanctification, some goods still find their way to export. Whether these are older stocks of apparently-benign products of the fallen regime is a question few wish to know the answer to."
+        },
+		"413bf982-341c-4352-80f8-8c2f7c6a5179": {
+            "Text": "[Kieva Gamma Pattern] Chainsword"
+        },
+		"f34423e9-c8a0-4ccf-88e9-72a8f3423ed2": {
+            "Text": "Not all of the patterns introduced during the tech heresey were found to be corrupted."
+        },
+		"d8c6e009-26b0-41da-b71c-2e1d8c5ffb6e": {
+            "Text": "Back to the Mines"
+        },
+		"a739f608-8561-4a6d-993c-d10e6fe2b097": {
+            "Text": "Following the Xenos incursion and the stoppage of work in the mines, the planet's overseers are making haste to restart their operations in the tunnels below the planet's surface, often without regard for the well-being of those they send to toil in the dangerous warrens."
+        },
+		"fd6ae4b9-693c-4f7e-9795-891874308dc7": {
+            "Text": "Rocksmasher"
+        },
+		"bf184bf1-e954-4376-b0c4-74f6cd291a19": {
+            "Text": "Maces and hammers have a special attack that {g|Encyclopedia:PushGlossary}pushes{/g} enemies away.\nIgnores 7 {g|Encyclopedia:Deflection}deflection{/g}."
+        },
+		"cb07de9a-876e-4d94-8c97-0707fbc69504": {
+            "Text": "A well-used and much-revered mining tool taken from deep below the surface of Vheabos VI."
+        }
+    }
+}

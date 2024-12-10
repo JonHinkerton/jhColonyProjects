@@ -1,0 +1,81 @@
+{
+  "AssetId": "a2b75d77c5634d37b2725be1067db468",
+  "Data": {
+    "$type": "86139952581c4e7fa135794685e236f9, BlueprintColonyProject",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "e358bb9eda304804bc36c2b8b0e704e5, RequirementResourceUseProject",
+        "name": "$RequirementResourceUseProject$0fcb2eae-8299-47df-b8f2-7d3b07a85976",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "Resource": {
+          "Resource": "!bp_5c1ecf2b3575466c937bad1a73130ca2",
+          "Count": 2
+        }
+      },
+      {
+        "$type": "1cf6ddd24787436dba7a7e4832eb52ce, RewardItem",
+        "name": "$RewardItem$f52289ce-96ef-4e41-80dd-4c60bac7a9a3",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "m_Item": "!bp_d17d07e830854ca097428c0ea2793d62",
+        "m_Count": 1
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_Name": {
+      "m_Key": "ce034f45-95a5-4ff6-bfa1-cff7e51cfd06",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "a5d0acc7-1c75-43c0-a6c5-49fdf94fd85c",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_MechanicString": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "afe74342c0c5cbe439baa2b5524ca1e0",
+      "fileid": 21300000
+    },
+    "IsStartingProject": false,
+    "SegmentsToBuild": 100,
+    "ActionsOnStart": {
+      "Actions": []
+    },
+    "ActionsOnFinish": {
+      "Actions": []
+    },
+    "AvailabilityConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "Rank": "Second"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

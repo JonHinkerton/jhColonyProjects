@@ -1,0 +1,93 @@
+{
+  "AssetId": "619924cdd4694e2a86bf7f465367c8f4",
+  "Data": {
+    "$type": "86139952581c4e7fa135794685e236f9, BlueprintColonyProject",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "6b753da00905420996556f7cd398267c, RewardReputation",
+        "name": "$RewardReputation$5fceea96-080c-4d3e-8e27-c42aa9908489",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "Reputation": 6000,
+        "Faction": "Kasballica"
+      },
+      {
+        "$type": "103ff90d034f4fa29f5250f54ba296ed, RequirementReputation",
+        "name": "$RequirementReputation$383c5b0f-e99b-477b-938e-b9125e680bd9",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "m_Reputation": {
+          "Faction": "Kasballica",
+          "MinLevelValue": 16
+        }
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_Name": {
+      "m_Key": "e817cb41-9d09-42b4-81f6-024983e6d3c6",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "e049ea9e-2acd-45f3-ac9b-7e773e9ebd19",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_MechanicString": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "805d21d0db6184142931b6b609faa2ba",
+      "fileid": 21300000
+    },
+    "IsStartingProject": false,
+    "SegmentsToBuild": 100,
+    "ActionsOnStart": {
+      "Actions": []
+    },
+    "ActionsOnFinish": {
+      "Actions": []
+    },
+    "AvailabilityConditions": {
+      "Operation": "Or",
+      "Conditions": [
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$344ed50a-8c0d-49d9-9093-b60f894dbc80",
+          "Not": false,
+          "m_Etude": "!bp_53dd73c394674cb3bb726b03b278fc1b",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        }
+      ]
+    },
+    "Rank": "Fourth"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

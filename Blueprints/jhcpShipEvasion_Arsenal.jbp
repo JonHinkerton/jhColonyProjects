@@ -1,0 +1,94 @@
+{
+  "AssetId": "eb3027ee9230412d956e910f75a90198",
+  "Data": {
+    "$type": "4b7adb2fefe3ae14a992780a233a7522, BlueprintItemArsenal",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
+        "name": "$AddFactToEquipmentWielder$b2b5a7e2-e38d-4c6b-8f56-5b2e6fb794db",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Fact": "!bp_16c724640d7f486c91aff3c6ebaa6d0e"
+      }
+    ],
+    "Author": "EvgeniyShanhiev",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "e1935073-579f-48cf-b72b-ac2a308938c4",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "ffabd969-758a-402b-bc0a-fc91eff57e0c",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "a47d107e84c72ef4382587442422c071",
+      "fileid": 21300000
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NotStackable": false,
+    "m_Weight": 0.0,
+    "m_Origin": "Miscellaneous",
+    "m_Rarity": "Common",
+    "m_Tag": "None",
+    "m_IsNotable": false,
+    "m_ProfitFactorCost": 0.0,
+    "m_CargoVolumePercent": 10,
+    "m_InventoryPutSound": "UI_INV_MetalScarp_Put_Play",
+    "m_InventoryTakeSound": "UI_INV_MetalScarp_Take_Play",
+    "ToCargoAutomatically": false,
+    "ItemLevel": 0,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesAfterCombat": false,
+    "IsNonRemovable": false,
+    "IsUnlootable": false,
+    "m_EquipmentEntity": null,
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": -1,
+    "StarshipEE": null,
+    "IsBroken": false,
+    "AssembleItemRequirements": [],
+    "AssembleItemRequiredScrap": 0,
+    "DisassembleScrapGiven": 0,
+    "AppliedWeaponType": "Other",
+    "FilterDamageType": "None",
+    "m_VariantWeapon": null,
+    "m_VariantAmmo": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

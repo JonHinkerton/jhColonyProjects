@@ -1,0 +1,118 @@
+{
+  "AssetId": "55285c4dcfbe4a76b42016107ac32955",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "fff1e6afd2e648008910de64852bac2d",
+    "m_Overrides": [
+      "m_DisplayName",
+      "m_Description",
+      "Author",
+      "CustomRange"
+    ],
+    "Components": [
+      {
+        "$type": "9c0a9fb4ae686c54c8e60a05c89de7c1, AbilityDeliverStarshipShot",
+        "name": "$AbilityDeliverStarshipShot$f369da50-ee6b-4888-9f5d-3dada1e09bcd",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "fff1e6afd2e648008910de64852bac2d",
+          "name": "$AbilityDeliverStarshipShot$f369da50-ee6b-4888-9f5d-3dada1e09bcd"
+        },
+        "m_Overrides": [],
+        "isAE_Mode": false,
+        "m_Pattern": {
+          "m_Type": "Circle",
+          "m_Blueprint": null,
+          "m_Radius": 0,
+          "m_Angle": 0
+        },
+        "ActionsOnProjectileDeliver": {
+          "Actions": []
+        },
+        "ActionsOnStart": {
+          "Actions": []
+        }
+      },
+      {
+        "$type": "b557f8c8bd8e67440b84e93292d2e370, AbilityActionCamera",
+        "name": "$AbilityActionCamera$1a14d0da-8b27-451a-bf0c-1a1425961ad0",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "fff1e6afd2e648008910de64852bac2d",
+          "name": "$AbilityActionCamera$1a14d0da-8b27-451a-bf0c-1a1425961ad0"
+        },
+        "m_Overrides": [],
+        "CameraFollow": "Caster",
+        "TriggerActionCameraChance": 33
+      }
+    ],
+    "Author": "EvgeniyIvanovGD",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "c6a16ad3-f1ab-4cb2-ba11-61275b63cb4b",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "3f6fa7c8-21b2-452c-b7ca-19eb33ba4a63",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "93f1aa59da2fbc84ca9a88baa87e02a2",
+      "fileid": 21300000
+    },
+    "m_AllowNonContextActions": false,
+    "Type": "Spell",
+    "Range": "Custom",
+    "CustomRange": 9,
+    "MinRange": 0,
+    "ActionPointCost": 0,
+    "AbilityParamsSource": "None",
+    "PsychicPower": "Minor",
+    "VeilThicknessPointsToAdd": 1,
+    "ParamsSkill": "SkillAthletics",
+    "CooldownRounds": 0,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": true,
+    "CanTargetFriends": false,
+    "CanTargetSelf": false,
+    "Hidden": false,
+    "DisableBestShootingPosition": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "ShowInDialogue": false,
+    "IsStarshipAbility": true,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "Harmful",
+    "m_Parent": null,
+    "Animation": "Directional",
+    "CastInOffHand": false,
+    "UseOnMechadendrite": false,
+    "UsedMechadendrite": "Utility",
+    "m_TargetMapObjects": false,
+    "IsFreeAction": false,
+    "ShouldTurnToTarget": false,
+    "m_IsStratagem": false,
+    "UsingInThreateningArea": "WillCauseAOO",
+    "UsingInOverwatchArea": "WillCauseAttack",
+    "CombatStateRestriction": "NoRestriction",
+    "m_AbilityGroups": [],
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": [],
+    "m_FXSettings": "!bp_8baf5957da6b4cafb6466a026662103c",
+    "m_AbilityTag": "StarshipShotAbility",
+    "m_CombatHudCommandsOverride": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

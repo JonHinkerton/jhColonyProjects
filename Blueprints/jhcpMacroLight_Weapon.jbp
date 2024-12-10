@@ -1,0 +1,150 @@
+{
+  "AssetId": "574161d4550146e7baf8f46ddaea0bda",
+  "Data": {
+    "$type": "d2513f4af02e4554bb8f9f79a5c35a46, BlueprintStarshipWeapon",
+    "PrototypeLink": "6518daf8214046c9a928cafc8a06715a",
+    "m_Overrides": [
+      "m_Description",
+      "m_DisplayName",
+      "Abilities",
+      "m_DefaultAmmo",
+      "WeaponAbilities.Ability1.m_Ability",
+      "m_Icon",
+      "m_CargoVolumePercent",
+      "Author",
+      "DamageInstances"
+    ],
+    "Components": [],
+    "Author": "EvgeniyIvanovGD",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "c6a16ad3-f1ab-4cb2-ba11-61275b63cb4b",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "3f6fa7c8-21b2-452c-b7ca-19eb33ba4a63",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "93f1aa59da2fbc84ca9a88baa87e02a2",
+      "fileid": 21300000
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NotStackable": false,
+    "m_Weight": 0.0,
+    "m_Origin": "ShipComponents",
+    "m_Rarity": "Common",
+    "m_Tag": "None",
+    "m_IsNotable": false,
+    "m_ProfitFactorCost": 0.0,
+    "m_CargoVolumePercent": 15,
+    "m_InventoryPutSound": "",
+    "m_InventoryTakeSound": "",
+    "ToCargoAutomatically": false,
+    "ItemLevel": 0,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesAfterCombat": false,
+    "IsNonRemovable": false,
+    "IsUnlootable": false,
+    "m_EquipmentEntity": null,
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": -1,
+    "StarshipEE": null,
+    "IsBroken": false,
+    "AssembleItemRequirements": [],
+    "AssembleItemRequiredScrap": 0,
+    "DisassembleScrapGiven": 0,
+    "RemoveFromSlotWhenNoCharges": false,
+    "WeaponAbilities": {
+      "Ability1": {
+        "Type": "Custom",
+        "Mode": "Default",
+        "m_Ability": "!bp_55285c4dcfbe4a76b42016107ac32955",
+        "m_FXSettings": "!bp_8baf5957da6b4cafb6466a026662103c",
+        "OnHitOverrideType": "None",
+        "m_OnHitActions": null,
+        "AP": 0
+      },
+      "Ability2": {
+        "Type": "None",
+        "Mode": "Default",
+        "m_Ability": null,
+        "m_FXSettings": null,
+        "OnHitOverrideType": "None",
+        "m_OnHitActions": null,
+        "AP": 0
+      },
+      "Ability3": {
+        "Type": "None",
+        "Mode": "Default",
+        "m_Ability": null,
+        "m_FXSettings": null,
+        "OnHitOverrideType": "None",
+        "m_OnHitActions": null,
+        "AP": 0
+      },
+      "Ability4": {
+        "Type": "None",
+        "Mode": "Default",
+        "m_Ability": null,
+        "m_FXSettings": null,
+        "OnHitOverrideType": "None",
+        "m_OnHitActions": null,
+        "AP": 0
+      },
+      "Ability5": {
+        "Type": "None",
+        "Mode": "Default",
+        "m_Ability": null,
+        "m_FXSettings": null,
+        "OnHitOverrideType": "None",
+        "m_OnHitActions": null,
+        "AP": 0
+      }
+    },
+    "WeaponType": "Macrobatteries",
+    "AllowedSlots": [
+      "Dorsal"
+    ],
+    "DamageInstances": 3,
+    "DelayBetweenProjectiles": 0.2,
+    "ShotsInSeries": 1,
+    "DelayInSeries": 0.0,
+    "m_SoundTypeSwitch": {
+      "Value": "",
+      "Group": ""
+    },
+    "m_DefaultAmmo": "!bp_475047c2e3674d60913105e52620f159",
+    "m_AlternateAmmo": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

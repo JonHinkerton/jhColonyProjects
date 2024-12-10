@@ -1,0 +1,123 @@
+{
+  "AssetId": "9388163a209d4c9c8925a9ec1b738bb8",
+  "Data": {
+    "$type": "86139952581c4e7fa135794685e236f9, BlueprintColonyProject",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "e358bb9eda304804bc36c2b8b0e704e5, RequirementResourceUseProject",
+        "name": "$RequirementResourceUseProject$0bf1252f-c996-4766-b120-3a6e0f4a508f",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "Resource": {
+          "Resource": "!bp_a3f69542b6fe484bbff66daa63fabb8e",
+          "Count": 2
+        }
+      },
+      {
+        "$type": "e358bb9eda304804bc36c2b8b0e704e5, RequirementResourceUseProject",
+        "name": "$RequirementResourceUseProject$9f109889-11cc-4c02-8b62-c2b5003f6397",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "Resource": {
+          "Resource": "!bp_3255d459d974470f8750a0d74dd6dfeb",
+          "Count": 2
+        }
+      },
+      {
+        "$type": "e358bb9eda304804bc36c2b8b0e704e5, RequirementResourceUseProject",
+        "name": "$RequirementResourceUseProject$b336a2d3-01fb-472c-a752-1f472472256e",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "Resource": {
+          "Resource": "!bp_b9ab9cd20baf49baa0cebd96df45a101",
+          "Count": 2
+        }
+      },
+      {
+        "$type": "1cf6ddd24787436dba7a7e4832eb52ce, RewardItem",
+        "name": "$RewardItem$ff54ac95-aa92-4204-902f-8a6cc5d19f1d",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "HideInUI": false,
+        "m_Item": "!bp_574161d4550146e7baf8f46ddaea0bda",
+        "m_Count": 1
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_Name": {
+      "m_Key": "579ebf15-4952-4105-89e0-0a5941714aed",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "a2330778-ab59-4062-8867-229b1f997f19",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_MechanicString": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "aab1f80f055ce7d4086136b8de49466d",
+      "fileid": 21300000
+    },
+    "IsStartingProject": false,
+    "SegmentsToBuild": 200,
+    "ActionsOnStart": {
+      "Actions": []
+    },
+    "ActionsOnFinish": {
+      "Actions": []
+    },
+    "AvailabilityConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$c1b832bf691e4ed299761ec949419734",
+          "Not": false,
+          "m_Etude": "!bp_53dd73c394674cb3bb726b03b278fc1b",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        }
+      ]
+    },
+    "Rank": "Fourth"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

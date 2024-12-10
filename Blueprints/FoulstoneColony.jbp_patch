@@ -1,0 +1,55 @@
+{
+  "TargetGuid": "883a5e2be9384e9f941ec3abf65f5d73",
+  "FieldOverrides": [],
+  "ArrayPatches": [
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_4d18e4cd04a149eaafdaf1c7e890454a",
+      "TargetValue": "!bp_02312a5fb8df4167a75f11964810cf17"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_e71ec02c1dd444d98884eea179e47dcc",
+      "TargetValue": "!bp_4d18e4cd04a149eaafdaf1c7e890454a"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_a165a4d33fdf4a34904c05b108c42a35",
+      "TargetValue": "!bp_e71ec02c1dd444d98884eea179e47dcc"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_61c91306d88a4c20b5ff67e20e390689",
+      "TargetValue": "!bp_a165a4d33fdf4a34904c05b108c42a35"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_d87cef3424c34f8797222ca41d77ed68",
+      "TargetValue": "!bp_61c91306d88a4c20b5ff67e20e390689"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_6bebb9fb16aa4e6c9c011c20777b7a21",
+      "TargetValue": "!bp_d87cef3424c34f8797222ca41d77ed68"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_2f6dc27e8c924f4e9607d5ef0ca1cab1",
+      "TargetValue": "!bp_6bebb9fb16aa4e6c9c011c20777b7a21"
+    },
+    {
+      "FieldName": "Projects",
+      "OperationType": "InsertAfterElement",
+      "Value": "!bp_86ab90c76e244afebd87d747de96e6c1",
+      "TargetValue": "!bp_2f6dc27e8c924f4e9607d5ef0ca1cab1"
+    }
+  ],
+  "ComponentsPatches": []
+}
