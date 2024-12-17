@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: jhColonyProjects
-    Version: 1.1
+    Version: 1.2
     DisplayName: Expanded Colony Projects
     Description: More colony projects
     Author: jonhinkerton
