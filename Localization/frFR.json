@@ -1,0 +1,160 @@
+{
+    "strings": {
+        "d75e1982-636e-41e5-894f-13f1fac55013": {
+            "Text": "Arbitrage des Matériaux"
+        },
+        "097a2159-832d-4052-b165-e85804677ff6": {
+            "Text": "Le Haut Factotum a travaillé dur pour organiser des accords commerciaux à travers l'Étendue de Koronus, négociant des échanges de nos biens contre des importations dans des contrats favorisant le Protectorat."
+        },
+        "e817cb41-9d09-42b4-81f6-024983e6d3c6": {
+            "Text": "Soutien des Factions"
+        },
+        "e049ea9e-2acd-45f3-ac9b-7e773e9ebd19": {
+            "Text": "La réputation et l'estime du Marchand Itinérant ont été rehaussées auprès de nos partenaires commerciaux grâce aux efforts des intermédiaires et des arrangeurs travaillant en coulisses pour maintenir le moteur économique du Protectorat à notre avantage."
+        },
+        "2309f68c-4364-454c-b744-0a2b38e9de46": {
+            "Text": "Développement"
+        },
+        "4cecbc35-8834-480b-835b-54e09c5f0b34": {
+            "Text": "L'investissement dans l'infrastructure des colonies du Protectorat par la classe dirigeante est un processus lent, mais il porte ses fruits en termes d'efficacité économique accrue, de qualité de vie pour nos citoyens, et de sécurité contre les menaces externes et internes."
+        },
+        "88c36b81-7511-4648-ac34-7a014a63b419": {
+            "Text": "Ruines des Façonneurs de Mondes"
+        },
+        "136a3da3-51c3-44cf-bc87-5b6d8bec5552": {
+            "Text": "Une équipe d'ouvriers dégageant une zone de terre non perturbée pour de nouveaux champs est tombée sur l'entrée d'une tombe Eldar, inviolée depuis l'époque avant la chute. Plusieurs artefacts restés en état utilisable ont été récupérés et pris en charge par les surveillants pour être remis à l'Ordo Xenos. Cependant, un trophée particulièrement remarquable a été retenu et présenté au Marchand Itinérant comme un cadeau du gouverneur de la planète."
+        },
+        "c4365730-26e4-4183-ba82-4df40f5d1783": {
+            "Text": "Lame de Sorcier"
+        },
+        "166d31ba-e365-4156-b702-012e5e6525eb": {
+            "Text": "Cette épée inflige un dommage supplémentaire +psy en mêlée. Le porteur de cette épée acquiert l'habileté Arc Électrique (niveau de puissance 9). Cette capacité est également disponible dans ses versions acte héroïque et mesure désespérée. +10 Volonté +10 Perception"
+        },
+        "5a7ce3c1-8632-417b-a7c3-245783e31aea": {
+            "Text": "Cette puissante relique xénos a été trouvée sur Janus et offerte comme trophée au Marchand Itinérant."
+        },
+        "de7f5c8f-d9f4-40bf-9a85-faaa0ac6c238": {
+            "Text": "Raviver la Forge"
+        },
+        "b75ce36f-fcd8-4a52-bb19-21334deb012a": {
+            "Text": "Après la réclamation du monde-forge de Kieva Gamma, un travail considérable a été nécessaire pour remettre les chaînes de production en marche. Des Techpriests de tout l'expanse, accompagnés des survivants des troubles, se sont rassemblés pour réparer et resanctifier les vastes usines. L'effort a culminé dans un rituel énorme au cœur de la cathédrale centrale pour rallumer la flamme éternelle de la grande forge elle-même."
+        },
+        "db22aaf9-fd30-4ace-9e29-662f3784b589": {
+            "Text": "Multi-Melta Forgé"
+        },
+        "5abc20f6-211f-4011-bd23-94605f4b49fd": {
+            "Text": "Le premier produit de la manufacturum restaurée de Kieva Gamma. Cette arme puissante porte la bénédiction de l'Omnissiah lui-même."
+        },
+        "579ebf15-4952-4105-89e0-0a5941714aed": {
+            "Text": "Restauration de la Flotte"
+        },
+        "a2330778-ab59-4062-8867-229b1f997f19": {
+            "Text": "La flotte Von Velancius stationnée à Dargonus a été dévastée lors de l'attaque Drukkari sur la capitale. Sous la direction de la famille Werserian, les chantiers navals ont entrepris un immense projet de récupération, réparant ce qui pouvait l'être et récupérant ce qui ne le pouvait pas. En peu de temps, la planète disposait de nouveau d'un escadron fonctionnel pour projeter la volonté de la dynastie dans l'Expanse."
+        },
+        "c6a16ad3-f1ab-4cb2-ba11-61275b63cb4b": {
+            "Text": "Batterie Macro Longcrocs"
+        },
+        "3f6fa7c8-21b2-452c-b7ca-19eb33ba4a63": {
+            "Text": "Un macrocanon dorsal à très longue portée qui tire trois coups infligeant 21 points de dommage chacun."
+        },
+        "06199112-45a5-4770-8271-3bd596699b3b": {
+            "Text": "Reliques de la Croisade"
+        },
+        "2accbbcc-bb7e-4d4f-a4c1-d5458cf3b889": {
+            "Text": "Alors que l'Ordre du Marteau s'aventure à travers l'Expanse, ils tombent sur de nombreux artefacts des fidèles nécessitant une reconsecration. Ces artefacts renouvelés retrouvent leur chemin vers les sanctuaires de Foulstone, mais à une occasion les croisés ont envoyé leur découverte au Marchand Itinérant à la place, cherchant à instiller un zèle juste dans leur patron."
+        },
+        "2e2aaa54-5a67-4fbc-9764-e1dd673fc913": {
+            "Text": "Armure de Puissance Relique"
+        },
+        "2ecaaa48-e8b3-4c19-8214-14a00443668c": {
+            "Text": "Le porteur inflige +10% de dégâts supplémentaires aux xénos et démons. Si le porteur possède la Conviction — Dogmatique, ce bonus est doublé.\n+15 Force"
+        },
+        "82553017-2e66-4af9-9ae9-7d1e3ba66118": {
+            "Text": "Cette vénérable armure de puissance a été récupérée et reconsecrée par les croisés de Foulstone."
+        },
+        "0fab7c60-1a13-44a6-9aec-7e4b16176b01": {
+            "Text": "Butin de l'Essaim"
+        },
+        "cd660329-4e8c-4e0e-831c-2401aea0ae95": {
+            "Text": "Les équipes envoyées pour examiner les restes de l'essaim qui a attaqué Vheabos VI depuis le sol ont pu déterminer très peu sur la nature de la menace xénos. Les entités mécaniques jamais vues auparavant ont emporté leurs secrets dans la tombe, mais certains artefacts intrigants sont restés."
+        },
+        "9060e462-7489-48f3-a272-94e7d4c182e5": {
+            "Text": "Orbe Mystérieux"
+        },
+        "423b7f0c-df4e-46c2-b7a7-76c51f398595": {
+            "Text": "Tous les ennemis en combat subissent -10 à leur armure."
+        },
+        "624243b6-2b5a-40b6-8910-76ed6d98c637": {
+            "Text": "On sait très peu de choses sur cet étrange artefact trouvé parmi les restes de l'essaim sur Vheabos VI, mais le tenir en hauteur au combat a un effet troublant sur les défenses de votre adversaire."
+        },
+        "c3ec0f36-2d5f-49ed-acb1-fe845a350f13": {
+            "Text": "Rénovation Très Attendue"
+        },
+        "231d1e8e-6738-47cc-ae8d-280148bf1274": {
+            "Text": "Ayant été informé de l'opportunité par le Maître Timonier, le Marchand Itinérant profite de son séjour en orbite autour de Dargonus pour mettre à quai et faire installer des modules améliorés sur le vaisseau amiral."
+        },
+        "e1935073-579f-48cf-b72b-ac2a308938c4": {
+            "Text": "Propulseurs de Manœuvre"
+        },
+        "ffabd969-758a-402b-bc0a-fc91eff57e0c": {
+            "Text": "Le vaisseau amiral gagne un bonus de +10 à l'Évasion."
+        },
+        "b50fe126-1935-47b2-9dd7-824358cd9029": {
+            "Text": "La Logistique de la Croisade"
+        },
+        "5bf903ca-9996-44d7-8d8a-09480c9644d1": {
+            "Text": "Alors que les guerriers zélés de Foulstone se préparent pour leur croisade à travers l'Expanse, les intendants commencent à accumuler des armements pour le conflit à venir."
+        },
+        "6a08712a-02de-4da1-a49c-788c76939655": {
+            "Text": "Grenade de Purification"
+        },
+        "c8fe45f3-ad9d-46f2-97bf-b09e13017e1a": {
+            "Text": "Inflige des dégâts d'impact de 12 à 24 avec une pénétration d'armure de 20% et met le feu à la zone pendant 3 tours."
+        },
+        "d810dcd5-561a-4b01-a621-b59bf1c04ebc": {
+            "Text": "Une favorite des croisés de Foulstone, ces grenades sanctifiées combinent une explosion initiale avec un composé enflammé qui adhère aux hérétiques."
+        },
+        "ce034f45-95a5-4ff6-bfa1-cff7e51cfd06": {
+            "Text": "Xénohérésie"
+        },
+        "a5d0acc7-1c75-43c0-a6c5-49fdf94fd85c": {
+            "Text": "Parmi les nouveaux administrateurs de Janus, tous ne sont pas aussi prompts à éviter la présence Aeldari que d'autres. Pour les Ultrequisitors, vétérans du Commerce Froid, les opportunités présentées par la présence des xenos sont trop riches pour être ignorées, menant à ce que quelques objets choisis finissent entre les mains des riches et puissants de l'Expanse."
+        },
+        "53aa1fb6-22ff-4abb-91a9-0a2050117d99": {
+            "Text": "Champ Réflecteur"
+        },
+        "7b0782e2-a631-4055-995b-dbca1941dae4": {
+            "Text": "Jusqu'au début du prochain tour, le porteur gagne un bonus à l'esquive égal à deux fois le nombre de cellules déplacées ce tour."
+        },
+        "858c9427-37fa-4064-ab3e-7ecbe66edc4f": {
+            "Text": "Bien que cela puisse être hérétique de les utiliser, les dispositifs pris aux Aeldari de Janus ont leurs utilités."
+        },
+        "7e8588b9-7e85-4120-bf72-60ca9cd3e397": {
+            "Text": "Provenance Douteuse"
+        },
+        "202880c2-0a69-46fd-b5ad-52862ebba7a3": {
+            "Text": "Tandis que les manufacturiums de Kieva Gamma restent inactifs en attendant la resanctification, certains produits trouvent encore leur chemin vers l'exportation. S'ils s'agit de stocks anciens de produits apparemment bénins du régime déchu est une question que peu souhaitent connaître la réponse."
+        },
+        "413bf982-341c-4352-80f8-8c2f7c6a5179": {
+            "Text": "Épée à Chaînes [Modèle de Kieva Gamma]"
+        },
+        "f34423e9-c8a0-4ccf-88e9-72a8f3423ed2": {
+            "Text": "Tous les modèles introduits pendant l'hérésie technologique n'ont pas été trouvés corrompus."
+        },
+        "d8c6e009-26b0-41da-b71c-2e1d8c5ffb6e": {
+            "Text": "Retour aux Mines"
+        },
+        "a739f608-8561-4a6d-993c-d10e6fe2b097": {
+            "Text": "Après l'incursion Xenos et l'arrêt des travaux dans les mines, les superviseurs de la planète se hâtent de redémarrer leurs opérations dans les tunnels sous la surface de la planète, souvent sans tenir compte du bien-être de ceux qu'ils envoient travailler dans les galeries dangereuses."
+        },
+        "fd6ae4b9-693c-4f7e-9795-891874308dc7": {
+            "Text": "Brise-Roche"
+        },
+        "bf184bf1-e954-4376-b0c4-74f6cd291a19": {
+            "Text": "Les masses et les marteaux ont une attaque spéciale qui {g|Encyclopedia:PushGlossary}pousse{/g} les ennemis.\nIgnore 7 {g|Encyclopedia:Deflection}déflection{/g}."
+        },
+        "cb07de9a-876e-4d94-8c97-0707fbc69504": {
+            "Text": "Un outil minier bien utilisé et très vénéré pris profondément sous la surface de Vheabos VI."
+        }
+    }
+}
