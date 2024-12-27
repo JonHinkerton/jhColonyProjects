@@ -6,8 +6,8 @@
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$984a6111-4724-40c4-8188-0babfbcd70b3",
+        "$type": "186465aada0f422b966541bbf050c271, WarhammerArmorBonus",
+        "name": "$WarhammerArmorBonus$a3ca8873-8166-472d-8903-165d143169b9",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -22,21 +22,35 @@
             "Getters": []
           }
         },
-        "Descriptor": "None",
-        "Stat": "DamageAbsorption",
-        "Multiplier": 1,
-        "Value": {
+        "BonusDeflectionValue": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "PropertyName": "Value1",
+          "Enabled": false,
+          "ModifierType": "ValAdd"
+        },
+        "BonusAbsorptionValue": {
           "ValueType": "Simple",
           "Value": -10,
           "ValueRank": "Default",
           "ValueShared": "Damage",
           "Property": "None",
           "m_CustomProperty": null,
-          "PropertyName": "Value1"
+          "PropertyName": "Value1",
+          "Enabled": true,
+          "ModifierType": "ValAdd"
         },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
+        "ForceDeflectionMinimum": false,
+        "PctDeflectionMinimum": 0,
+        "DeflectionMinimumValue": 0,
+        "ForceAbsorptionMinimum": false,
+        "PctAbsorptionMinimum": 0,
+        "AbsorptionMinimumValue": 0,
+        "ModifierDescriptor": "None"
       }
     ],
     "Author": "ElenaMironova",
@@ -55,10 +69,7 @@
       "m_JsonPath": "",
       "Shared": null
     },
-    "m_Icon": {
-      "guid": "9d651835b5c13134e907a4fc9bbe7c64",
-      "fileid": 21300000
-    },
+    "m_Icon": null,
     "m_AllowNonContextActions": false,
     "m_Flags": 0,
     "m_SoundTypeSwitch": {
