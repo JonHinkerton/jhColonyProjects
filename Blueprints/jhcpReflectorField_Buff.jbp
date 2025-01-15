@@ -6,39 +6,6 @@
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$984a6111-4724-40c4-8188-0babfbcd70b3",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": []
-          }
-        },
-        "Descriptor": "None",
-        "Stat": "Evasion",
-        "Multiplier": 1,
-        "Value": {
-          "ValueType": "CasterNamedProperty",
-          "Value": -10,
-          "ValueRank": "Default",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null,
-          "PropertyName": "Value1"
-        },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
-      },
-      {
         "$type": "f9bf4ae9ccd847689d5cdf2e86bc51ca, PropertyCalculatorComponent",
         "name": "$PropertyCalculatorComponent$d1adf1c1-72ab-41ad-8626-df128e823084",
         "m_Flags": 0,
@@ -83,6 +50,46 @@
               }
             }
           ]
+        }
+      },
+      {
+        "$type": "919aa5bc2ad3469e8b637c3f73e98dea, WarhammerDodgeChanceModifierDefender",
+        "name": "$WarhammerDodgeChanceModifierDefender$fdccd51f-1aae-48cb-9809-41c8340b27d9",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Restrictions": {
+          "Property": {
+            "Operation": "Sum",
+            "TargetType": "CurrentTarget",
+            "FailSilentlyIfNoTarget": false,
+            "Getters": []
+          }
+        },
+        "Properties": "DodgeChance",
+        "DodgeChance": {
+          "ValueType": "CasterNamedProperty",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "PropertyName": "Value1"
+        },
+        "PercentDodgeModifier": false,
+        "PercentMultiplierModifier": false,
+        "SetMinimumDodgeChance": false,
+        "MinimumDodgeChance": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "PropertyName": "Value1"
         }
       }
     ],
