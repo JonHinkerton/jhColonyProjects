@@ -1,0 +1,49 @@
+{
+  "Projects": [
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_7d06a4becb394201b06fd1f68a02b37a",
+      "InsertAfterTarget": "!bp_af6a53cf72964ef1a0e59e6c078abe95"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_4585d4455fd143ab88380339607129d9",
+      "InsertAfterTarget": "!bp_7d06a4becb394201b06fd1f68a02b37a"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_1bbe7ccb1f2448268e50495071c917ba",
+      "InsertAfterTarget": "!bp_4585d4455fd143ab88380339607129d9"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_c129c1dec773403b984dfe186bfd9455",
+      "InsertAfterTarget": "!bp_1bbe7ccb1f2448268e50495071c917ba"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_5cf1050c90cd49dc89535baa020fccf5",
+      "InsertAfterTarget": "!bp_c129c1dec773403b984dfe186bfd9455"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_26782b5a5d2249e4891349c5a086e638",
+      "InsertAfterTarget": "!bp_5cf1050c90cd49dc89535baa020fccf5"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_9388163a209d4c9c8925a9ec1b738bb8",
+      "InsertAfterTarget": "!bp_26782b5a5d2249e4891349c5a086e638"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_8ff4538795e14d7aa870779a7b789988",
+      "InsertAfterTarget": "!bp_9388163a209d4c9c8925a9ec1b738bb8"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_ae704043f906489baceb34aacf7a56ce",
+      "InsertAfterTarget": "!bp_8ff4538795e14d7aa870779a7b789988"
+    }
+  ]
+}

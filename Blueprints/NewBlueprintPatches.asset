@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Entries:
   - Guid: e433f1613297486cb6ddec834f37dd95
-    Filename: DargonusColony
-    PatchType: 1
+    Filename: DargonusColony.patch
+    PatchType: 2
   - Guid: 883a5e2be9384e9f941ec3abf65f5d73
-    Filename: FoulstoneColony
-    PatchType: 1
+    Filename: FoulstoneColony.patch
+    PatchType: 2
   - Guid: 876fc13fdc10492b8444e045ac8f9ecc
-    Filename: KyavaGammaColony
-    PatchType: 1
+    Filename: KyavaGammaColony.patch
+    PatchType: 2
   - Guid: 0a8a3c9ea1b444118d33ebcc24db10f7
-    Filename: VheabosIVColony
-    PatchType: 1
+    Filename: VheabosIVColony.patch
+    PatchType: 2
   - Guid: 47400e8140a3434882459f2c95b54b7f
-    Filename: YanusColony
-    PatchType: 1
+    Filename: YanusColony.patch
+    PatchType: 2
