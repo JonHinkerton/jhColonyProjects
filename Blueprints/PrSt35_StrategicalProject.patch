@@ -1,0 +1,11 @@
+{
+  "Components": [
+    {
+      "PatchType": "PatchElement",
+      "Target": "$RewardItem$77527fa7-7b41-4427-886d-4eb11a92c3db",
+      "ElementPatch": {
+        "m_Item": "!bp_4256c8a569cc478cafb45224f4599867"
+      }
+    }
+  ]
+}

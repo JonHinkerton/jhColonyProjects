@@ -28,3 +28,9 @@ MonoBehaviour:
   - Guid: 47400e8140a3434882459f2c95b54b7f
     Filename: YanusColony.patch
     PatchType: 2
+  - Guid: fe51077e9f9e428e8408e3077a4641f3
+    Filename: PrSt35_StrategicalProject.patch
+    PatchType: 2
+  - Guid: 9d38eb7f5531476cbe0a9f3e32e010ad
+    Filename: DrusianChapter4_VendorTable_Base.patch
+    PatchType: 2

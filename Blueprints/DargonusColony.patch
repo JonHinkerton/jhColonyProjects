@@ -44,6 +44,16 @@
       "PatchType": "Insert",
       "NewElement": "!bp_ae704043f906489baceb34aacf7a56ce",
       "InsertAfterTarget": "!bp_8ff4538795e14d7aa870779a7b789988"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_48bcec2615934b579e331c25364accec",
+      "InsertAfterTarget": "!bp_ae704043f906489baceb34aacf7a56ce"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": "!bp_c458dabb90624c51a42b105e1037bec6",
+      "InsertAfterTarget": "!bp_48bcec2615934b579e331c25364accec"
     }
   ]
 }
